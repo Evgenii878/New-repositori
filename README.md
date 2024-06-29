@@ -2,4 +2,5 @@
 # Я учащийся школы Нетология
 Миллер Евгений Александрович
 
-https://raw.githubusercontent.com/Evgenii878/New-repositori/main/68747470733a2f2f692e696d6775722e636f6d2f484a3156624d6a2e706e67.png
+![68747470733a2f2f692e696d6775722e636f6d2f484a3156624d6a2e706e67](https://github.com/Evgenii878/New-repositori/assets/173143011/a12cb595-a2a0-4985-895e-01827a7b3018)
+
