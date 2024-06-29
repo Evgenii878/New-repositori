@@ -3,4 +3,4 @@
 Миллер Евгений Александрович
 
 
-[text](https://camo.githubusercontent.com/d3fb1e4f754ab0811ce5b31384558099e577344aed1fd85a56eb6547a4c67665/68747470733a2f2f692e696d6775722e636f6d2f484a3156624d6a2e706e67)
+https://github.com/Evgenii878/New-repositori/blob/main/68747470733a2f2f692e696d6775722e636f6d2f484a3156624d6a2e706e67.png?raw=true
